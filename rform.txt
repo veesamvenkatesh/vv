@@ -21,10 +21,10 @@
             </body>
             <form>
             <div align="center">
-                    <label for="name">Name:</label>
+                    <label for="nam">Name:</label>
                     <input type="text" id="name" name="name" placeholder="enter your name" required><br><br>
 
-                    <label for="contact no">Contact no:</label>
+                    <label for="ph no">Contact no:</label>
                     <input type="tel" id="contact no" name="contact no" placeholder="contact no" required><br><br>
 
                     <label for="city">City:</label>
@@ -32,7 +32,7 @@
                 </form>
   
             </div>
-                    <form method="POST" action="C:\Users\A213(a)-18\Desktop\registration-successful.png"> 
+                    <form method="main" action="C:\Users\A213(a)-18\Desktop\registration-successful.png"> 
                     <input type="submit" value="submit">
  
             </form>
